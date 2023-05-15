@@ -2,12 +2,12 @@
 
 
 ### Hi there 👋, I'm Marina
-#### I am AI student in Gdansk Univeristy of Technology
-I am passionate of ML, NLP and Deepfakes.
+#### Student in Gdansk Univeristy of Technology
+Passionate of ML, NLP and Deepfakes.
 
 Skills: Python/ C# / SQL / Docker / Kubernetes / Linux / Git
 
-- 🔭 I’m currently working on depression recognition from speech 
+- 🔭 I’m currently working on depression recognition from speech project
 - 🌱 I’m currently learning algorythms of deepfake detection 
 - 👯 I’m looking to collaborate on open source AI projects 
 - ⚡ Fun fact: love cats so much 

@@ -2,7 +2,7 @@
 #### I am AI student in Gdansk Univeristy of Technology
 I am passionate of ML, NLP and Deepfakes.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Python/ C# / SQL / Docker / Kubernetes / Linux / Git
 
 - 🔭 I’m currently working on depression recognition from speech 
 - 🌱 I’m currently learning algorythms of deepfake detection 

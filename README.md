@@ -1,3 +1,6 @@
+![banner](https://github.com/MarinaGalanina/MarinaGalanina/assets/100734139/5faee6ef-cf75-4d96-9042-9e281713fc8e)
+
+
 ### Hi there 👋, I'm Marina
 #### I am AI student in Gdansk Univeristy of Technology
 I am passionate of ML, NLP and Deepfakes.
